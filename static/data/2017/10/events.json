@@ -250,5 +250,14 @@
     "type": "conference",
     "website": "https://www.facebook.com/IAsummitArg",
     "logo": ""
+  },
+  {
+    "name": "Hackaton Galicia",
+    "start": "11/11/2017",
+    "end": "12/11/2017",
+    "location": "Torre Galicia, Buenos Aires, Argentina",
+    "type": "hackathon",
+    "website": "http://hackaton.bancogalicia.com.ar/",
+    "logo": "http://hackaton.bancogalicia.com.ar/resources/galleries/galicia/logo_galicia.jpg"
   }
 ]
