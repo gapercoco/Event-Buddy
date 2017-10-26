@@ -232,5 +232,14 @@
     "type": "hackathon",
     "website": "http://isi-investiga.frro.utn.edu.ar/pre-hackat%C3%B3n-de-innovaci%C3%B3n-financiera-con-metodolog%C3%ADas-%C3%A1giles",
     "logo": "http://isi-investiga.frro.utn.edu.ar/sites/default/files/publico/styles/large/public/field/image/BANNER%20UTN.jpg"
+  },
+  {
+    "name": "I.A. Submmit Argentina 2017",
+    "start": "31/10/2017",
+    "end": "31/10/2017",
+    "location": "Auditorio UCEMA, Buenos Aires, Argentina",
+    "type": "conference",
+    "website": "https://www.facebook.com/IAsummitArg",
+    "logo": ""
   }
 ]
