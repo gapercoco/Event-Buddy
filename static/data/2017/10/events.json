@@ -259,5 +259,14 @@
     "type": "hackathon",
     "website": "http://hackaton.bancogalicia.com.ar/",
     "logo": "http://hackaton.bancogalicia.com.ar/resources/galleries/galicia/logo_galicia.jpg"
+  },
+  {
+    "name": "CIITI 2017",
+    "start": "02/11/2017",
+    "end": "02/11/2017",
+    "location": "Universidad Abierta Interamericana, Rosario, Santa Fe, Argentina",
+    "type": "conference",
+    "website": "http://www.uai.edu.ar/ciiti/2017/rosario/agenda/default.asp",
+    "logo": "http://www.uai.edu.ar/ciiti/2017/rosario/img/imagen-2017.jpg"
   }
 ]
