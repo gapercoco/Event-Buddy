@@ -241,5 +241,14 @@
     "type": "conference",
     "website": "https://www.facebook.com/IAsummitArg",
     "logo": ""
+  },
+  {
+    "name": "Docker y containers: Todo lo que no te atrevías a preguntar",
+    "start": "31/10/2017",
+    "end": "31/10/2017",
+    "location": "EXO TRAINING CENTER, Buenos Aires, Argentina",
+    "type": "conference",
+    "website": "https://www.facebook.com/IAsummitArg",
+    "logo": ""
   }
 ]
