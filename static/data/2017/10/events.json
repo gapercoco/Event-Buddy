@@ -232,6 +232,7 @@
     "type": "hackathon",
     "website": "http://isi-investiga.frro.utn.edu.ar/pre-hackat%C3%B3n-de-innovaci%C3%B3n-financiera-con-metodolog%C3%ADas-%C3%A1giles",
     "logo": "http://isi-investiga.frro.utn.edu.ar/sites/default/files/publico/styles/large/public/field/image/BANNER%20UTN.jpg"
+<<<<<<< HEAD
   },
   {
     "name": "I.A. Submmit Argentina 2017",
@@ -268,5 +269,7 @@
     "type": "conference",
     "website": "http://www.uai.edu.ar/ciiti/2017/rosario/agenda/default.asp",
     "logo": "http://www.uai.edu.ar/ciiti/2017/rosario/img/imagen-2017.jpg"
+=======
+>>>>>>> upstream/master
   }
 ]
